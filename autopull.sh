@@ -3,7 +3,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 # 新的所有者和组，需要替换为实际的用户名和组名
-OWNER="kapa"
+OWNER="root"
 GROUP="staff"
 SITEDIR="/Users/kapa/Documents/project"
 
